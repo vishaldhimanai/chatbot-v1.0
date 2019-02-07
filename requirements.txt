@@ -1,0 +1,9 @@
+django==2.0.6
+django-bootstrap4
+numpy
+tensorflow>=1.4.0
+tqdm
+colorama
+regex
+python-Levenshtein
+requests
